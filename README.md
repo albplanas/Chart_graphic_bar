@@ -1,1 +1,1 @@
-# Chart_graphic_bar
+# Chart graphic bar using d3
